@@ -25,3 +25,21 @@
 * ended course HTML, CSS and JavaScript in Stormnet in 2019.
 
 ------------
+
+### Code examples: 
+
+`< elem.onclick = function(event) {
+alert("why did you make click? ");
+} >`
+
+------------
+
+
+
+### Experience 
+project development
+
+[ https://github.com/hoshi-jung]
+(https://github.com/hoshi-jung/pikulik)
+
+------------
