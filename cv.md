@@ -13,3 +13,15 @@
      * **linkedln**:*[linkedin.com/in/kat-pikulik/](http://https://www.linkedin.com/in/kat-pikulik/ "linkedin.com/in/kat-pikulik/")
 
     ------------
+
+### Summary 
+* Self-educated from 2018.
+* Good communication skills and ability to share knowledge 
+
+------------
+
+### Skills
+* basic knowledge HTML, CSS and JavaScript. 
+* ended course HTML, CSS and JavaScript in Stormnet in 2019.
+
+------------
