@@ -43,3 +43,39 @@ project development
 (https://github.com/hoshi-jung/pikulik)
 
 ------------
+
+### Education
+* course HTML, CSS and JavaScript in Stormnet
+* https://www.codecademy : 
+   >Introduction to HTML
+    Learn CSS
+* https://htmlacademy.ru/ : 
+> Familiarity with HTML and CSS
+   HTML document structure
+   Text markup
+   Links and Images
+   CSS Basics
+   Text design
+   Introducing Tables
+   Acquaintance with forms
+   Introducing CSS
+   Selectors, Part 1
+   Inheritance and Cascading
+   
+* https://www.udemy.com/ 
+    >foundations-of-front-end-development
+   web-development-learn-by-doing-html5-css3-from- 
+   scratch-introductory
+   
+* https://www.pluralsight.com
+   > how-git-works
+
+------------
+ ### English:
+ Pre-Intermediate (A2)
+i study now in English course
+
+
+
+
+
