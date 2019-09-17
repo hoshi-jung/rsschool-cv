@@ -1,5 +1,5 @@
 ----
->### CV|Katsiaryna Pikulik
+>### `CV|Katsiaryna Pikulik`
 
 ### Personal data
 
@@ -10,7 +10,7 @@
      * **mobile**: 375259421713
      * **Email**: pikulik.ht@gmail.com
      * **skype**: live:das_info
-     * **linkedln**:*[linkedin.com/in/kat-pikulik/](http://https://www.linkedin.com/in/kat-pikulik/ "linkedin.com/in/kat-pikulik/")
+     * **linkedln**: [kat-pikulik](http://https://www.linkedin.com/in/kat-pikulik/)
 
     ------------
 
@@ -38,42 +38,47 @@ alert("why did you make click? ");
 
 ### Experience 
 project development
-
-[ https://github.com/hoshi-jung]
-(https://github.com/hoshi-jung/pikulik)
+ [hoshi-jung](https://github.com/hoshi-jung/pikulik)
 
 ------------
 
 ### Education
 * course HTML, CSS and JavaScript in Stormnet
-* https://www.codecademy : 
-   >Introduction to HTML
-    Learn CSS
-* https://htmlacademy.ru/ : 
-> Familiarity with HTML and CSS
-   HTML document structure
-   Text markup
-   Links and Images
-   CSS Basics
-   Text design
-   Introducing Tables
-   Acquaintance with forms
-   Introducing CSS
-   Selectors, Part 1
-   Inheritance and Cascading
-   
-* https://www.udemy.com/ 
-    >foundations-of-front-end-development
-   web-development-learn-by-doing-html5-css3-from- 
-   scratch-introductory
-   
-* https://www.pluralsight.com
-   > how-git-works
+
+* [codecademy](https://www.codecademy)
+
+        >Introduction to HTML
+        Learn CSS
+        
+* [htmlacademy](https://htmlacademy.ru/)
+
+       > Familiarity with HTML and CSS
+       HTML document structure
+       Text markup
+       Links and Images
+       CSS Basics
+       Text design
+       Introducing Tables
+       Acquaintance with forms
+       Introducing CSS
+       Selectors, Part 1
+       Inheritance and Cascading
+       
+* [udemy]( https://www.udemy.com/ )  
+
+       >foundations-of-front-end-development
+       web-development-learn-by-doing-html5-css3-from- 
+       scratch-introductory
+       
+* [pluralsight](https://www.pluralsight.com )  
+
+
+       > how-git-works
 
 ------------
  ### English:
- Pre-Intermediate (A2)
-i study now in English course
+ * Pre-Intermediate (A2)
+*i study now in English course*
 
 
 
