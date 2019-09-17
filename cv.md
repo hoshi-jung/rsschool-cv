@@ -28,10 +28,12 @@
 
 ### Code examples: 
 
-`< elem.onclick = function(event) {
-alert("why did you make click? ");
-} >`
+``` javascript
+elem.onclick = function(event) {
+  alert("why did you make click? ");
+}
 
+```
 ------------
 
 
