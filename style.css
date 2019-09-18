@@ -108,4 +108,20 @@ a {
     text-decoration: none;
 }
 
+.code {
+    border: 2px solid rgb(85, 104, 98);
+    padding-bottom: 30px;
+    text-align: center;
+}
 
+code {
+    background-color: rgb(217, 212, 221);
+    padding: 10px;
+}
+
+footer {
+    background-color: rgb(131, 175, 160); 
+    text-align: center;
+    padding: 15px;
+    font-size: 10px; 
+}
