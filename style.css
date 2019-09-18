@@ -9,6 +9,7 @@
     font-family: "Helvetica", "Tahoma", sans-serif;
     color: #2e2e36;
     line-height: 1;
+    
 }
 
 header {
@@ -39,7 +40,7 @@ ul {
     padding: 15px;
     background-color: rgb(225, 236, 232);
     list-style: none;
-}
+ }
 
 
 .user-information {
@@ -70,3 +71,41 @@ p {
     background-color: rgb(225, 236, 232);
 
 }
+
+.education {
+    border: 2px solid rgb(85, 104, 98);
+}
+
+.course {
+    display: flex;
+    flex-wrap: wrap;
+    padding: 10px;
+}
+
+.course-list {
+    width: 40%; 
+    border: 2px solid rgb(85, 104, 98);
+    margin: 30px;
+    
+
+}  
+.li-header {
+    padding-bottom: 10px;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+.course-list li {
+font-size: 12px;
+padding-bottom: 5px;
+}
+
+.li-header::before{
+    content: "\2714";
+    padding-right: 15px;
+}
+a {
+    text-decoration: none;
+}
+
+
