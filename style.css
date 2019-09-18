@@ -8,11 +8,11 @@
     margin: 0 auto;
     font-family: "Helvetica", "Tahoma", sans-serif;
     color: #2e2e36;
+    line-height: 1;
 }
 
 header {
     font-size: 20px;
-    line-height: 1;
     text-align: center;
     padding: 15px;
     background-color: rgb(131, 175, 160);
@@ -41,3 +41,32 @@ ul {
     list-style: none;
 }
 
+
+.user-information {
+    display: flex;
+    flex-wrap: wrap;
+    border: 2px solid rgb(85, 104, 98);
+    padding: 15px;
+}
+
+
+.summary,
+.skills,
+.experience {
+   width: 30%;
+   padding: 15px 30px;
+   border: 2px solid rgb(85, 104, 98);
+   margin: 10px;
+} 
+
+p::before{
+    content: "\2b2b";
+    padding-right: 5px;
+}
+
+p {
+    font-size: 11px;
+    padding: 0 10px;
+    background-color: rgb(225, 236, 232);
+
+}
